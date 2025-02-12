@@ -4,7 +4,7 @@
 •	An industry project focused on identifying and recommending e-commerce products. Utilizing deep learning models including ResNet, pretrained LLMs (like Distil BERT) and faster-RCNN, to generate embeddings and detect brands. The architecture we designed yielded better performance compared to the brand classification model used by Criteo.
 
 
-### Using 2D MRI slices to classify Schizophrenia [GitHub repo](https://github.com/youzhiw/SCZ_classfication/blob/main) | [Final Report](https://github.com/youzhiw/SCZ_classfication/blob/main/BMI_Final_Report.pdf) Feb 2024 - May 2024
+### Using 2D MRI slices to classify Schizophrenia ([GitHub repo](https://github.com/youzhiw/SCZ_classfication/blob/main) | [Final Report](https://github.com/youzhiw/SCZ_classfication/blob/main/BMI_Final_Report.pdf)) Feb 2024 - May 2024
 •	Developed a model to classify schizophrenia using 2D MRI slices by leveraging GradCAMs from a VGG model to identify significant slices, followed by training a Swin Transformer. 
 
 ### Analyzing Car Collision within Montgomery County ([GitHub project link](https://roymadpis.github.io/Car_Collision_EDAV_Columbia_2023/))	Nov 2023 - Jan 2024
