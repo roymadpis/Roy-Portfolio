@@ -15,9 +15,12 @@
 
 ### Analysis of tweet's sentiments using Brexit as case study ([GitHub link](https://github.com/roymadpis/nlp-project) | [The Package Code](https://github.com/Michael-Koban/brexit-package-new/blob/main/twitter_crawler.py)) Oct-2021 – Aug 2022
 • I led a team of four students as part of an annual research project of the University's Data Science Institute, assessing tweet sentiments using Brexit as a case study. I was responsible for constructing a package in Python that enabled using Twitter's API to retrieve data (tweets, retweets, quotes, likes, users, etc.). The package is generic, so one can retrieve data on any given subject.
+
 • Utilized the Python package to retrieve over 1.5M tweets about Brexit & tweets of above 60 key opinion leaders.
+
 • Constructed a sentiment analysis model using python & Hugging face models.
 
 ### Deep Learning and Covid-19 ([GitHub repo](https://github.com/roymadpis/Deep_Learning_Covid)) March-2022 – July 2022
 • I worked on a deep learning project focused on COVID-19 predictive modeling. The project involved building models to forecast daily COVID-19-related statistics, including deaths, hospitalizations, and test counts, leveraging various data sources.
+
 • I engineered datasets with key COVID-19 metrics and incorporated external factors such as quarantine rates and hospital capacity. Utilizing deep learning models in PyTorch (like LSTM and MLP), I predicted future cases and evaluated the models' accuracy over time using metrics such as mean squared error and R² score.
