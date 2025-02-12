@@ -9,3 +9,6 @@
 
 ### Analyzing Car Collision within Montgomery County ([GitHub project link](https://roymadpis.github.io/Car_Collision_EDAV_Columbia_2023/))	Nov 2023 - Jan 2024
 •	A comprehensive analysis using time series and geospatial data to identify trends in car accidents, including correlations with time of day and hit-and-run incidents. Leveraged Python for data preprocessing and visualization to identify high-risk locations and accident patterns and propose data-driven recommendations for law enforcement.
+
+### Peer to Peer Lending Model ([GitHub project link](https://github.com/roymadpis/Peer_To_Peer_Lending_Project))	Mar 2021 - July 2021
+•	Developed a ML model that given a list of loans, provides loan-investment recommendation, guaranteeing above 2% realized return. The project and model got the highest score amongst 7 other teams working on the same project.
