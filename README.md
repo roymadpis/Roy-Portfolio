@@ -6,3 +6,6 @@
 
 ### Using 2D MRI slices to classify Schizophrenia [GitHub repo](https://github.com/youzhiw/SCZ_classfication/blob/main) | [Final Report](https://github.com/youzhiw/SCZ_classfication/blob/main/BMI_Final_Report.pdf) Feb 2024 - May 2024
 •	Developed a model to classify schizophrenia using 2D MRI slices by leveraging GradCAMs from a VGG model to identify significant slices, followed by training a Swin Transformer. 
+
+### Analyzing Car Collision within Montgomery County ([GitHub project link](https://roymadpis.github.io/Car_Collision_EDAV_Columbia_2023/))	Nov 2023 - Jan 2024
+•	A comprehensive analysis using time series and geospatial data to identify trends in car accidents, including correlations with time of day and hit-and-run incidents. Leveraged Python for data preprocessing and visualization to identify high-risk locations and accident patterns and propose data-driven recommendations for law enforcement.
